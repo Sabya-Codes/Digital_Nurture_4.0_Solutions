@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/10_MVC Pattern/10_MVC Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/10_MVC Pattern/10_MVC Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/11_Dependency Injection/11_Dependency Injection.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/11_Dependency Injection/11_Dependency Injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/1_Singleton_Pattern/1_Singleton_Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/1_Singleton_Pattern/1_Singleton_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/2_Factory Method Pattern/2_Factory Method Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/2_Factory Method Pattern/2_Factory Method Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/3_Builder Pattern/3_Builder Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/3_Builder Pattern/3_Builder Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/4_Adapter Pattern/4_Adapter Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/4_Adapter Pattern/4_Adapter Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/5_Decorator Pattern/5_Decorator Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/5_Decorator Pattern/5_Decorator Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/6_Proxy Pattern/6_Proxy Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/6_Proxy Pattern/6_Proxy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/7_Observer Pattern/7_Observer Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/7_Observer Pattern/7_Observer Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/8_Strategy Pattern/8_Strategy Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/8_Strategy Pattern/8_Strategy Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week1_Design Patterns and Principles/9_Command Pattern/9_Command Pattern.iml" filepath="$PROJECT_DIR$/week1_Design Patterns and Principles/9_Command Pattern/9_Command Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Digital_nurture_4.0_solutions.iml" filepath="$PROJECT_DIR$/.idea/Digital_nurture_4.0_solutions.iml" />
+    </modules>
+  </component>
+</project>
